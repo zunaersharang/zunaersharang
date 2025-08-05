@@ -4,7 +4,7 @@
 
 I'm a Data Science student passionate about building socially impactful tools powered by machine learning and AI. I focus on projects that bridge educational equity gaps, promote public health insights, and deliver real-world value through data-driven solutions. My work blends strong technical foundations with leadership and a mission-driven approach.
 
-<img src="assets/250610-DotdashInterns-Zunaer-Sharang-0473.jpg" width="200" alt="Zunaer Sharang">
+<img src="assets/250610-DotdashInterns-Zunaer-Sharang-0473" width="200" alt="Zunaer Sharang">
 
 ---
 
