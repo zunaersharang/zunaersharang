@@ -21,6 +21,15 @@ I'm a Data Science student passionate about building socially impactful tools po
 
 ## 🚀 Featured Projects
 
+## Fake News Classification
+
+Fake News Categorization (NLP & Transformers)
+- Python, DeBERTa, scikit-learn
+- Built transformer and baseline ML models for fake news detection
+- Completed as part of Accenture AI Studio  
+🔗 https://github.com/zunaersharang/fake-news-categorization
+
+
 ### [Uniflow](https://github.com/yourusername/uniflow) – *AI-Powered College & Career Mentorship Platform* (In Progress)
 > **Team Lead | July 2025 – Present**  
 > Building an AI-driven platform to guide students through college applications, academics, and wellness. Features include an essay feedback engine, course difficulty predictor, study buddy matcher, and smart planning tools for underserved students.  
